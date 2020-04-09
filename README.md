@@ -11,11 +11,11 @@
   * `./piku`
 * Issues that you encountered along the way, and anything you have questions about.
 
-#Timothy Kim(Tim)
-#Status: Complete
-#Compile and Execution instruction:
-#"gcc -o piku piku.s"
-#"./piku"
+*Timothy Kim(Tim)
+*Status: Complete
+*Compile and Execution instruction:
+*"gcc -o piku piku.s"
+*"./piku"
 
 
 
