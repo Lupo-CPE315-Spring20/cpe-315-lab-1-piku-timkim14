@@ -9,7 +9,7 @@
 * Compilation and execution instructions:
   * `gcc -o piku piku.s`
   * `./piku`
-* Issues that you encountered along the way, and anything you have questions about: I was not able to clone my repository into the server so I had to copy and paste code. It said something about there being an issue with it being a remote repository.
+* Issues that you encountered along the way, and anything you have questions about: I was not able to clone my repository into the server so I had to copy and paste code. It said something about there being an issue with it being a remote repository. I also cannot consistenly access the pi servers. A lot of the times it says the connection time has run out.
 
 
 These README files have a fairly rich _Markdown_ environment. You should use
